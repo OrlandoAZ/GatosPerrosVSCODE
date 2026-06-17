@@ -12,7 +12,7 @@ from tensorflow.keras.applications import ResNet152
 from tensorflow.keras.applications.resnet import preprocess_input
 
 # ── Ruta del modelo — ajusta si cambias de equipo ───────────────────────────
-RUTA_MODELO = r"E:\OAZ\0D. PYTHON\VS Transfer Learning\Codigo optimizado 2026-4000VS\head_final4000VS.keras"
+RUTA_MODELO = "head_final4000VS.keras"
 
 # ── Configuración de página ──────────────────────────────────────────────────
 st.set_page_config(
