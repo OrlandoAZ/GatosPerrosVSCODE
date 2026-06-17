@@ -25,6 +25,7 @@ st.set_page_config(
 st.markdown(
     """
     <h1 style='text-align:center; color:#2c3e50;'>🐾 Clasificador de Perros y Gatos</h1>
+    <h2 style='text-align:center; color:#5d6d7e;'>Elaborado por Orlando Advíncula Zeballos</h2>
     <p style='text-align:center; color:#7f8c8d; font-size:17px;'>
         Transfer Learning con <strong>ResNet152</strong>
     </p>
